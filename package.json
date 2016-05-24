@@ -1,11 +1,11 @@
 {
-  "name": "react-tour-guide",
-  "version": "0.0.8",
-  "author": "Jake Marsh <jakemmarsh@gmail.com>",
+  "name": "react-guest-tutorial",
+  "version": "0.0.4",
+  "author": "zhipenglu <695694307@gmail.com>",
   "description": "A ReactJS mixin to give new users a popup-based tour of your application.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jakemmarsh/react-tour-guide.git"
+    "url": "https://github.com/azl397985856/react-tour-guide"
   },
   "private": false,
   "license": "MIT",

@@ -1,4 +1,4 @@
-react-tour-guide [![npm version](https://badge.fury.io/js/react-tour-guide.svg)](http://badge.fury.io/js/react-tour-guide)
+
 ==========================================================================================================================
 
 A ReactJS mixin to give new users a popup-based tour of your application. An example can be seen [here](http://jakemmarsh.com/react-tour-guide/).
@@ -7,11 +7,11 @@ A ReactJS mixin to give new users a popup-based tour of your application. An exa
 
 ### Getting Started
 
-1. `npm install --save react-tour-guide`
-2. `var TourGuideMixin = require('react-tour-guide').Mixin`
+1. `npm install --save react-guest-tutorial`
+2. `var TourGuideMixin = require('react-guest-tutorial').Mixin`
 
 ```javascript
-var TourGuideMixin = require('react-tour-guide').Mixin;
+var TourGuideMixin = require('react-guest-tutorial').Mixin;
 var tour = {
   startIndex: 0,
   scrollToSteps: true,
